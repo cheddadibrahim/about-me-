@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=200&section=header&text=Welcome%20Gamer&fontSize=32&fontColor=ffffff" />
 </p>
 
-<h1 align="center">🎮 Shaddad | Gamer Mode ON</h1>
+<h1 align="center">🎮 Chaddad | Gamer Mode ON</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShaddadIbrahim&label=Profile%20Views&color=red&style=flat" />
