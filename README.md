@@ -37,4 +37,10 @@
 
 ---
 
-⭐ **GG! Profile upgraded.**
+## 🎮 Focus Areas
+
+<p align="center">
+  <img src="https://progress-bar.dev/70/?title=Gaming&width=300&color=ff0000" />
+  <img src="https://progress-bar.dev/40/?title=Learning%20Tech&width=300&color=00ffcc" />
+  <img src="https://progress-bar.dev/55/?title=Consistency&width=300&color=ffffff" />
+</p>
